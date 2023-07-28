@@ -1,3 +1,3 @@
 2.0
-https://drive.google.com/uc?export=download&id=1GPK1SjJTPLzreH5BR5eDpf_t-wkV2a7p
+https://firebasestorage.googleapis.com/v0/b/patchex-e-test.appspot.com/o/Test.zip?alt=media&token=1f5d133f-1d13-4075-bf62-061d33375d62
 dnr
